@@ -1,4 +1,8 @@
+<div align="center">
 
+# 🚀 MOHAMMAD AKASH
+
+### 💻 Full Stack Developer | 🤖 Bot Creator | 🎨 UI/UX Designer
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://akashbotdev.github.io)
 [![YouTube](https://img.shields.io/badge/🎬_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@akashbotdev)
