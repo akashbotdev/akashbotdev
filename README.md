@@ -37,7 +37,7 @@
 [![GOAT BOT Tutorial](https://img.youtube.com/vi/gPf_BFhQz_w/maxresdefault.jpg)](https://youtu.be/gPf_BFhQz_w?si=qo2ogGdgTv2Emn96)
 
 **📽️ Click the image above to watch the full tutorial on YouTube!**  
-**⏱️ Duration: 15:30 | 🎯 Level: Beginner to Intermediate**
+**⏱️ Duration: 05:35 | 🎯 Level: Beginner to Intermediate**
 
 </div>
 
